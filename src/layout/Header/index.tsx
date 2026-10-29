@@ -1,4 +1,4 @@
-import { AtomPNG } from "../../../assets";
+import { AtomPNG } from "../../assets";
 import "./Header.css"
 
 export default function Header() {
